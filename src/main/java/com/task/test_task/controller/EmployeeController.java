@@ -1,6 +1,6 @@
 package com.task.test_task.controller;
 
-import com.task.test_task.dto.Employee;
+import com.task.test_task.entity.Employee;
 import com.task.test_task.service.employeeImpl.EmployeeServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

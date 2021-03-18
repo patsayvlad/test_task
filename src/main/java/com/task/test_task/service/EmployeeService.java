@@ -1,6 +1,6 @@
 package com.task.test_task.service;
 
-import com.task.test_task.dto.Employee;
+import com.task.test_task.entity.Employee;
 
 import java.util.List;
 

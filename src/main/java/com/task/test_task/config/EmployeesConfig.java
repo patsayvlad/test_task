@@ -1,6 +1,6 @@
 package com.task.test_task.config;
 
-import com.task.test_task.dto.Employees;
+import com.task.test_task.entity.Employees;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.context.annotation.SessionScope;

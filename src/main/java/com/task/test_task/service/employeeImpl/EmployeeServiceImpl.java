@@ -1,7 +1,7 @@
 package com.task.test_task.service.employeeImpl;
 
-import com.task.test_task.dto.Employee;
-import com.task.test_task.dto.Employees;
+import com.task.test_task.entity.Employee;
+import com.task.test_task.entity.Employees;
 import com.task.test_task.service.EmployeeService;
 import org.springframework.stereotype.Service;
 
@@ -15,7 +15,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService {

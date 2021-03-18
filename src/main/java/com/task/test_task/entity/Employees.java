@@ -1,4 +1,4 @@
-package com.task.test_task.dto;
+package com.task.test_task.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
